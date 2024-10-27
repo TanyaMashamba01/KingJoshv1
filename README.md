@@ -73,7 +73,7 @@
 2. Session File (SERVER 1)
     <br>
     <p align="center">
-<a href='https://kingjosh-pair-code.onrender.com/pair' target="_blank"><img alt='REQUEST PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue'/></a>
+<a href='https://xploader-pair-code.onrender.com/pair' target="_blank"><img alt='REQUEST PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue'/></a>
 
 2. Session File (SERVER 2)
     <br>
